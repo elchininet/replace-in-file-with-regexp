@@ -1,0 +1,16 @@
+{
+  "name": "replace-in-file-with-regexp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "replace": "replace-in-file --configFile=config.json",
+    "replace-regexp": "replace-in-file --configFile=config.regexp.json --isRegex"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "replace-in-file": "^8.0.1"
+  }
+}

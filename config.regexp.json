@@ -1,0 +1,5 @@
+{
+    "files": "test.txt",
+    "from": "/\\w{3} \\d{3}/g",
+    "to": "replaced"
+}
